@@ -51,7 +51,7 @@ class SignInScreen extends StatelessWidget {
             // Sign Up Navigation Button
             TextButton(
               onPressed: () {
-                // Get.to(() => SignUpScreen());
+                Get.to(() => SignUpScreen());
               },
               child: const Text('Don\'t have an account? Sign Up'),
             ),
