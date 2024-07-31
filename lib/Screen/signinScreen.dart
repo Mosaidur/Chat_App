@@ -1,7 +1,7 @@
 import 'package:demo_application_web_rtc/Screen/signupScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../signIn_Controller/signIn_Controller.dart';
+import 'Controller/signIn_Controller.dart';
 // import 'auth_controller.dart';
 
 

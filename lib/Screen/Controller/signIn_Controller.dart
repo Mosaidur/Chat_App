@@ -1,8 +1,9 @@
 import 'dart:convert';
-import 'package:demo_application_web_rtc/utilles/url.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
+
+import '../utilles/url.dart';
 
 class AuthController extends GetxController {
   TextEditingController emailController = TextEditingController();
